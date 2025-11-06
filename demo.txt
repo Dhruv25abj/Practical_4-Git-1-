@@ -1,1 +1,3 @@
-this is just a demo file to check if i can push the file on repo
+this is just a demo file and i was able to commit and push the file in this repo
+
+this line is to create a conflict in the file
