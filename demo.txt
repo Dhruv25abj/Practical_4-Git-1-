@@ -1,1 +1,2 @@
-this is just a demo file to check if i can push the file on repo
+This is just a demo file to check if i can push the file on repo
+this is a first lecture of the git
